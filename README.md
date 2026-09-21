@@ -16,3 +16,4 @@ IMPORTANT:
 - Do not put an OpenAI API key in index.html or in this public repository.
 - The Deep Analyze secure endpoint is configured separately.
 - After opening the GitHub Pages HTTPS URL in Chrome, use Install app / Add to Home screen.
+Pages deployment test.
